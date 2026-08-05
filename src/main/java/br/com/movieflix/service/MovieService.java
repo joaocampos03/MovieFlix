@@ -5,7 +5,6 @@ import br.com.movieflix.entity.Movie;
 import br.com.movieflix.entity.Streaming;
 import br.com.movieflix.repository.MovieRepository;
 import lombok.RequiredArgsConstructor;
-import org.aspectj.lang.annotation.RequiredTypes;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

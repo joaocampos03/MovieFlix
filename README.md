@@ -126,10 +126,6 @@ http://localhost:8080/api/api-docs
 - PUT `/movieflix/movie/{id}` - Atualizar filme
 - DELETE `/movieflix/movie/{id}` - Deletar filme
 
-## Versionamento
-
-Este projeto segue [SemVer](http://semver.org/). As versões publicadas ficam nas [tags do repositório](https://github.com/seu-usuario/movieflix/tags).
-
 ## Autor
 
 **João Campos**
